@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I am Vedit Beladia!
+
+###![Twitter Follow](https://img.shields.io/twitter/follow/Vedit2002?style=social)
+
+[![](https://visitcount.itsvg.in/api?id=v3dit&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <!--
 **v3dit/v3dit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
