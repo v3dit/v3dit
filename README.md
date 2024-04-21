@@ -5,8 +5,6 @@
 
 --- 
 🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="CSS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="CSS Logo" width="50" height="50"/> 
-https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg https://cdn.worldvectorlogo.com/logos/python-5.svg https://cdn.worldvectorlogo.com/logos/flask.svg https://cdn.worldvectorlogo.com/logos/react-2.svg https://cdn.worldvectorlogo.com/logos/logo-javascript.svg https://cdn.worldvectorlogo.com/logos/jquery-2.svg https://cdn.worldvectorlogo.com/logos/bootstrap-5.svg https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg https://cdn.worldvectorlogo.com/logos/json.svg https://cdn.worldvectorlogo.com/logos/firebase-1.svg https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg https://cdn.worldvectorlogo.com/logos/mysql-3.svg https://cdn.worldvectorlogo.com/logos/selenium-1.svg https://cdn.worldvectorlogo.com/logos/docker-4.svg https://cdn.worldvectorlogo.com/logos/figma-5.svg https://cdn.worldvectorlogo.com/logos/java-4.svg https://cdn.worldvectorlogo.com/logos/c-1.svg https://cdn.worldvectorlogo.com/logos/c--4.svg https://cdn.worldvectorlogo.com/logos/html-1.svg https://cdn.worldvectorlogo.com/logos/css-3.svg https://cdn.worldvectorlogo.com/logos/css-4.svg https://cdn.worldvectorlogo.com/logos/sass-1.svg https://cdn.worldvectorlogo.com/logos/php-1.svg
 <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQuery Logo" width="50" height="50"/> 
@@ -31,6 +29,22 @@ https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg https://cdn.wor
 <img src="https://cdn.worldvectorlogo.com/logos/selenium-1.svg" alt="Selenium Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="Docker Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="Figma Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="Ruby Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" alt="Amazon Web Services (AWS) Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/kubernetes-1.svg" alt="Kubernetes Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/circleci.svg" alt="CircleCI Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/gcp-google-cloud-platform.svg" alt="Google Cloud Platform Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/aws-lambda.svg" alt="AWS Lambda Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/azure-functions-1.svg" alt="Azure Functions Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/apache-spark-3.svg" alt="Apache Spark Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/hadoop-1.svg" alt="Hadoop Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg" alt="Elasticsearch Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/kibana.svg" alt="Kibana Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL Logo" width="50" height="50"/> 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=v3dit&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
