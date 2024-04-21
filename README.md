@@ -5,7 +5,9 @@
 
 --- 
 🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
+
+
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQuery Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5.svg" alt="Bootstrap Logo" width="50" height="50"/> 
@@ -20,7 +22,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="MySQL Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/css-4.svg" alt="CSS Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass Logo" width="50" height="50"/> 
@@ -34,17 +35,10 @@
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" alt="Ruby Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" alt="Amazon Web Services (AWS) Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/kubernetes-1.svg" alt="Kubernetes Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Kubernetes Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="Jenkins Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/circleci.svg" alt="CircleCI Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/gcp-google-cloud-platform.svg" alt="Google Cloud Platform Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/aws-lambda.svg" alt="AWS Lambda Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/azure-functions-1.svg" alt="Azure Functions Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/apache-spark-3.svg" alt="Apache Spark Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/hadoop-1.svg" alt="Hadoop Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg" alt="Elasticsearch Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/kibana.svg" alt="Kibana Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud Platform Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="AWS Lambda Logo" width="50" height="50"/> 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=v3dit&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
