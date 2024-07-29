@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Vedit Beladia!
 ---
+# Currently @
 
-#Currently @ 
 <img src="https://cdn.worldvectorlogo.com/logos/ey.svg" alt="JavaScript Logo" width="100" height="100"/> 
 
 --- 
