@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Vedit Beladia!
 
-**_Working @_** <img src="https://cdn.worldvectorlogo.com/logos/ernst-young-building-a-better-working-world.svg" alt="JavaScript Logo" width="100" height="100"/> 
+**_Senior Analyst @_** <img src="https://cdn.worldvectorlogo.com/logos/ernst-young-building-a-better-working-world.svg" alt="JavaScript Logo" width="100" height="100"/> 
 
 --- 
 
