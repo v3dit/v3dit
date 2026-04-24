@@ -53,7 +53,7 @@ Check out my **_[Portfolio](https://vedit-beladia.web.app)_**
 ---
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Vedit2002?style=social)
-[![visitcount](https://visitcount.itsvg.in/api?id=v3dit&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=v3dit&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <!--
 **v3dit/v3dit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
